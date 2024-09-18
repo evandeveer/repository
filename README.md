@@ -1,3 +1,4 @@
 # mon premier projet
 
-**texte en italique**
+
+*texte en italique*
